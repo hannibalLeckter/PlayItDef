@@ -27,7 +27,7 @@ const Login = (props) => {
           {hasAccount ? (
             <>
               <h1 className="text-white center mb-5">Registrate aqui!</h1>
-              <label>Email  <FaUserAlt width="40px" height="40px" /></label>
+              <label>Email222  <FaUserAlt width="40px" height="40px" /></label>
               <input
                 type="text"
                 autoFocus
